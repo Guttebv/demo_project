@@ -10,16 +10,5 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+<h1>Suresh Phad</h1>
 <body>
-<<<<<<< HEAD
-    <h1>Hello Php suresh Phad</h1>
-</body>
-</html>
-=======
-
->>>>>>> 958a6d483fd5982af83c8f02d3a3fd8aca3cd8c9
-=======
-    
-</body>
-</html>
->>>>>>> d623e5e95b15ee6a184c279e04742cdf4e57d74c
